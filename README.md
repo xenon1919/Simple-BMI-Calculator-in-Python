@@ -6,11 +6,12 @@ This Python script calculates your Body Mass Index (BMI) based on your height (i
 Calculates BMI based on user input.
 Handles invalid input (e.g., negative values).
 Interprets BMI category (Severely underweight, Underweight, Healthy, Overweight, Severely overweight).
-How to Use:
+
+# How to Use:
 
 Clone or download this repository.
-Open a terminal or command prompt and navigate to the directory containing the script (e.g., bmi_calculator.py).
-Run the script using python bmi_calculator.py.
+Open a terminal or command prompt and navigate to the directory containing the script (e.g., BMI.py).
+Run the script using python BMI.py.
 Follow the prompts to enter your height in centimeters and weight in kilograms.
 The script will display your BMI and its interpretation.
 
